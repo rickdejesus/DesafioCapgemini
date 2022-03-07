@@ -1,3 +1,4 @@
+
 arr = [9,2,1,4,6]
 a = len(arr) // 2
 arr.sort()
